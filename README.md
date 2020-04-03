@@ -1,4 +1,4 @@
-# Call of Duty 4 vision script commands
+# Call of Duty 4 vision script commands 
 Features 3 basic vision commands that can be used with BigBrotherBot or/and in-game commands. Includes Fullbright, Promod and Field of View commands.
 
 ## Installation:
@@ -19,3 +19,8 @@ promod = cmd promod:<PLAYER:PID>
 * Following lines need to be added to your _callbacksetup script file:
   * [callbacksetup.gsx#L15](https://github.com/leiizko/cod4_scriptcommands/blob/master/maps/mp/gametypes/_callbacksetup.gsx#L15)
   * [callbacksetup.gsx#L141-L148](https://github.com/leiizko/cod4_scriptcommands/blob/master/maps/mp/gametypes/_callbacksetup.gsx#L141-L148)
+  
+  
+  
+  
+  ## SLASH# FTW
